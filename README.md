@@ -4,7 +4,7 @@ UI/UX Design Analysis Report – WhatsApp Mobile Application
 
 Objective
 To evaluate the User Interface (UI) and User Experience (UX) of the WhatsApp mobile application by analyzing its navigation, layout, color scheme, typography, user flow, and overall usability.
-<img width="211" height="211" alt="image" src="https://github.com/user-attachments/assets/fa39e1b8-e8a4-4c51-87db-be54920ccac7" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/fa39e1b8-e8a4-4c51-87db-be54920ccac7" />
 
 
 Introduction
