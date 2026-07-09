@@ -138,4 +138,9 @@ Through this experiment, I learned how to evaluate a mobile application's UI and
 
 Conclusion
 WhatsApp is an excellent example of a well-designed mobile application. Its clean interface, intuitive navigation, readable typography, and consistent color scheme contribute to a positive user experience. Although a few improvements can be made, the application successfully follows major UI/UX design principles and remains one of the easiest messaging applications to use.
-<img width="500" height="500" alt="3" src="https://github.com/user-attachments/assets/efadc0d7-55b8-4aa3-a555-3646c4722a8a" />
+<img width="500" height="500" alt="3" src="https://github.com/user-attachments/assets/efadc0d7-55b8-4aa3-a555-3646c4722a8a" /> 
+
+Project Structure 
+
+<img width="960" height="720" alt="Untitled drawing(1)" src="https://github.com/user-attachments/assets/e03d8637-a142-4568-b3f1-576845eb6bfe" />
+
