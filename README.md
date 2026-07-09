@@ -142,5 +142,5 @@ WhatsApp is an excellent example of a well-designed mobile application. Its clea
 
 Project Structure 
 
-<img width="960" height="720" alt="Untitled drawing(1)" src="https://github.com/user-attachments/assets/e03d8637-a142-4568-b3f1-576845eb6bfe" />
+<img width="300" height="200" alt="Untitled drawing(1)" src="https://github.com/user-attachments/assets/e03d8637-a142-4568-b3f1-576845eb6bfe" />
 
